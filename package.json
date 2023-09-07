@@ -4,6 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "main": "src/index.js",
+  "types": "src/index.d.ts",
   "scripts": {
     "dev": "pnpm ladle serve",
     "build": "pnpm ladle build"
